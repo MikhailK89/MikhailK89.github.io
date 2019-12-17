@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "author": "Randy Marsh",
+    "src": "./data/images/avatars/randy.png"
+  },
+  {
+    "id": 2,
+    "author": "Eric Cartman",
+    "src": "./data/images/avatars/cartman.png"
+  },
+  {
+    "id": 3,
+    "author": "Stan Marsh",
+    "src": "./data/images/avatars/stan.png"
+  },
+  {
+    "id": 4,
+    "author": "Kyle Broflovski",
+    "src": "./data/images/avatars/kyle.png"
+  },
+  {
+    "id": 5,
+    "author": "Kenny McCormick",
+    "src": "./data/images/avatars/kenny.png"
+  }
+]

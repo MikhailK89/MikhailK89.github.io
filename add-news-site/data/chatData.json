@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "chatWith": "Randy Marsh",
+    "author": "Randy Marsh",
+    "bigText": "Hi, Butters!"
+  },
+  {
+    "id": 2,
+    "chatWith": "Randy Marsh",
+	  "author": "Butters",
+	  "bigText": "Is that you mr Randy?"
+  },
+  {
+    "id": 3,
+    "chatWith": "Randy Marsh",
+	  "author": "Randy Marsh",
+	  "bigText": "Oh, come on! I need your help urgently. Stop asking questions."
+  },
+  {
+    "id": 4,
+    "chatWith": "Randy Marsh",
+	  "author": "Butters",
+	  "bigText": "What kind of help mr Randy?"
+  },
+  {
+    "id": 5,
+    "chatWith": "Randy Marsh",
+	  "author": "Randy Marsh",
+    "bigText": "I need your computer. Guys are having some trouble in WoW. I need to save them."
+  },
+  {
+    "id": 6,
+    "chatWith": "Randy Marsh",
+	  "author": "Butters",
+    "bigText": "In what?"
+  },
+  {
+    "id": 7,
+    "chatWith": "Randy Marsh",
+	  "author": "Randy Marsh",
+    "bigText": "In a video game."
+  }
+]
