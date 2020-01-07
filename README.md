@@ -4,8 +4,8 @@ This repository contains build versions of my projects so you could see the site
 
 ## Project navigation
 
-1. react-chat
+### react-chat
 
-project:
+project: https://github.com/MikhailK89/chat-south-park
 
-site:
+site: https://mikhailk89.github.io/react-chat/
