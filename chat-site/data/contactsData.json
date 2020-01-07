@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "author": "Randy Marsh",
+    "login": "@Randy",
+    "phone": "11232122112",
+    "residence": "South Park, USA",
+    "src": "./data/images/avatars/randy.png"
+  },
+  {
+    "id": 2,
+    "author": "Eric Cartman",
+    "login": "@Eric",
+    "phone": "11234144114",
+    "residence": "South Park, USA",
+    "src": "./data/images/avatars/cartman.png"
+  },
+  {
+    "id": 3,
+    "author": "Stan Marsh",
+    "login": "@Stan",
+    "phone": "11237177117",
+    "residence": "South Park, USA",
+    "src": "./data/images/avatars/stan.png"
+  },
+  {
+    "id": 4,
+    "author": "Kyle Broflovski",
+    "login": "@Kyle",
+    "phone": "11238188118",
+    "residence": "South Park, USA",
+    "src": "./data/images/avatars/kyle.png"
+  },
+  {
+    "id": 5,
+    "author": "Kenny McCormick",
+    "login": "@Kenny",
+    "phone": "11239199119",
+    "residence": "South Park, USA",
+    "src": "./data/images/avatars/kenny.png"
+  },
+  {
+    "id": 6,
+    "author": "Butters",
+    "login": "@Butters",
+    "phone": "11235155115",
+    "residence": "South Park, USA",
+    "src": "./data/images/avatars/butters.png"
+  }
+]

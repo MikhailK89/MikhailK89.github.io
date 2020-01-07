@@ -1,0 +1,58 @@
+[
+  {
+    "postId": 1,
+    "authorId": 1,
+    "recipientId": 6,
+    "author": "Randy Marsh",
+    "recipient": "Butters",
+    "bigText": "Hi, Butters!"
+  },
+  {
+    "postId": 2,
+    "authorId": 6,
+    "recipientId": 1,
+    "author": "Butters",
+    "recipient": "Randy Marsh",
+    "bigText": "Is that you mr Randy?"
+  },
+  {
+    "postId": 3,
+    "authorId": 1,
+    "recipientId": 6,
+    "author": "Randy Marsh",
+    "recipient": "Butters",
+    "bigText": "Oh, come on! I need your help urgently. Stop asking questions."
+  },
+  {
+    "postId": 4,
+    "authorId": 6,
+    "recipientId": 1,
+    "author": "Butters",
+    "recipient": "Randy Marsh",
+    "bigText": "What kind of help mr Randy?"
+  },
+  {
+    "postId": 5,
+    "authorId": 1,
+    "recipientId": 6,
+    "author": "Randy Marsh",
+    "recipient": "Butters",
+    "bigText": "I need your computer. Guys are having some trouble in WoW. I need to save them."
+  },
+  {
+    "postId": 6,
+    "authorId": 6,
+    "recipientId": 1,
+    "author": "Butters",
+    "recipient": "Randy Marsh",
+    "bigText": "In what?"
+  },
+  {
+    "postId": 7,
+    "authorId": 1,
+    "recipientId": 6,
+    "author": "Randy Marsh",
+    "recipient": "Butters",
+    "bigText": "In a video game."
+  }
+]
