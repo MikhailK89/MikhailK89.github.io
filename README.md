@@ -9,3 +9,9 @@ This repository contains build versions of my projects so you could see the site
 project: https://github.com/MikhailK89/chat-south-park
 
 site: https://mikhailk89.github.io/react-chat/
+
+### 2. excel-site
+
+project:
+
+site: https://mikhailk89.github.io/excel-site/
