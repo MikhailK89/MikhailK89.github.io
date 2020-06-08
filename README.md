@@ -12,6 +12,6 @@ site: https://mikhailk89.github.io/react-chat/
 
 ### 2. excel-site
 
-project:
+project: https://github.com/MikhailK89/excel-course
 
 site: https://mikhailk89.github.io/excel-site/
