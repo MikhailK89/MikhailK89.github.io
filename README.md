@@ -15,3 +15,9 @@ site: https://mikhailk89.github.io/react-chat/
 project: https://github.com/MikhailK89/excel-course
 
 site: https://mikhailk89.github.io/excel-site/
+
+### 3. vue-crm
+
+project: https://github.com/MikhailK89/vue-crm
+
+site: https://mikhailk89.github.io/vue-crm-demo/
