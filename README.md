@@ -2,21 +2,27 @@
 
 This repository contains build versions of my projects so you could see the sites.
 
-## Project navigation
+## Projects navigation
 
-### 1. react-chat
+### 1. platformer
+
+project: https://github.com/MikhailK89/my-game
+
+site: https://mikhailk89.github.io/platformer/
+
+### 2. react-chat
 
 project: https://github.com/MikhailK89/chat-south-park
 
 site: https://mikhailk89.github.io/react-chat/
 
-### 2. excel-site
+### 3. excel-site
 
 project: https://github.com/MikhailK89/excel-course
 
 site: https://mikhailk89.github.io/excel-site/
 
-### 3. vue-crm
+### 4. vue-crm
 
 project: https://github.com/MikhailK89/vue-crm
 
