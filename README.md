@@ -14,7 +14,7 @@ site: https://mikhailk89.github.io/platformer/
 
 project: https://github.com/MikhailK89/chat-app
 
-site:
+site: https://mikhailk89.github.io/chat-app-demo/
 
 ### 3. excel-site
 
