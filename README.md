@@ -12,9 +12,9 @@ site: https://mikhailk89.github.io/platformer/
 
 ### 2. react-chat
 
-project: https://github.com/MikhailK89/chat-south-park
+project: https://github.com/MikhailK89/chat-app
 
-site: https://mikhailk89.github.io/react-chat/
+site:
 
 ### 3. excel-site
 
